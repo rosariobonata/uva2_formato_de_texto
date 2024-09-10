@@ -1,0 +1,31 @@
+.rojo{
+    background-color: #FF0000;
+}
+
+.azul{
+    background-color: blue;
+}
+
+#tamañoletra{
+    font-size:x-large
+}
+
+#cursiva{
+    font-style: italic;
+}
+
+.bordesoldados{
+    border: 3px dashed black;
+}
+
+.espacio{
+    letter-spacing: 10px;
+}
+
+.centrar{
+    text-align: center;
+}
+
+.mayuscula{
+    text-transform: uppercase;
+}
